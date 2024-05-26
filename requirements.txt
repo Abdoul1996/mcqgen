@@ -1,0 +1,6 @@
+# This are the requirement for current virtual environment to install 
+openai 
+langchain
+streamlit # create API using my streamlit 
+python-dotenv # package 
+PyPDF2 
