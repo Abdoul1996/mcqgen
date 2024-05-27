@@ -4,3 +4,5 @@ langchain
 streamlit # create API using my streamlit 
 python-dotenv # package 
 PyPDF2 
+
+-e . 
