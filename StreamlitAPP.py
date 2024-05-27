@@ -14,7 +14,7 @@ with open('/Users/abdoulabdillahi/Desktop/Generative AI /Generative_AI_Project/m
     RESPONSE_JSON = json.load(file)
 
 # creating a title for the app 
-st.title("MCQs Creator Application with LangChain ")
+st.title("MCQs Creator Application with LangChain 🦜️🔗 ")
 
 # create form using st.form 
 with st.form("user_inputs"):
