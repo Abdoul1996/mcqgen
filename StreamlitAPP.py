@@ -41,10 +41,10 @@ with st.form("user_inputs"):
                 traceback.print_exception(type(e), e, e.__traceback__)
                 st.error("Error occurred during MCQ generation.")
             else:
-                print(f"Total Tokens: {cb.total_tokens}")
-                print(f"Prompt Tokens: {cb.prompt_tokens}")
-                print(f"Completion Tokens: {cb.completion_tokens}")
-                print(f"Total cost: {cb.total_cost}")
+                st.write(f"Total Tokens: {cb.total_tokens}")
+                st.write(f"Prompt Tokens: {cb.prompt_tokens}")
+                st.write(f"Completion Tokens: {cb.completion_tokens}")
+                st.write(f"Total cost: {cb.total_cost}")
                 
                 if isinstance(response, dict):
                     quiz = response.get("quiz")
