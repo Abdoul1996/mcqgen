@@ -1,0 +1,6 @@
+MCQ,choices,correct
+What was a significant shift in focus for machine learning in the 1990s?,a:From practical problems to theoretical AI | b:From achieving AI to solving practical problems | c:From statistics to symbolic approaches | d:From unsupervised to supervised learning,b
+Which method is used for data compression and is also a technique in unsupervised machine learning?,a:Support vector machines | b:Decision trees | c:K-means clustering | d:Linear regression,c
+Which of the following is NOT a focus of machine learning?,a:Pattern recognition | b:Knowledge discovery in databases | c:Symbolic/knowledge-based learning | d:Inductive logic programming,b
+What is the primary difference between machine learning and optimization?,a:Optimization focuses on minimizing loss on a training set | b:Machine learning focuses on maximizing accuracy on unseen data | c:Machine learning uses no loss functions | d:Optimization does not use algorithms,a
+Which AI technique was mentioned as having been used in automated medical diagnosis?,a:Neural networks | b:Probabilistic reasoning | c:Expert systems | d:Inductive logic programming,b
