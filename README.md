@@ -1,4 +1,3 @@
-`markdown
 # MCQs Creator Application with LangChain and OpenAI 🦜️🔗
 
 This application leverages the LangChain platform and OpenAI API to generate multiple-choice questions (MCQs) based on a give pdf file or text file. It also evaluates the answers to these questions, providing a comprehensive tool for education purpose. 
