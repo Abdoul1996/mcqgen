@@ -52,8 +52,9 @@ MCQs are evaluated using LangChain's capabilities which provides insights into t
     ```
 
 2. Provide examples of how to use the project, including code snippets and expected outputs.
-/var/folders/lc/n5fml4jd4019lskc2ndx44jh0000gn/T/TemporaryItems/NSIRD_screencaptureui_UqLCe0/Screenshot 2024-06-01 at 8.46.28 AM.png
 
+
+<img width="1136" alt="Screenshot 2024-06-01 at 8 52 07 AM" src="https://github.com/Abdoul1996/mcqgen/assets/43047286/662dd9d9-b793-44cf-a0b4-4d235a35fcb8">
 
 
 ## Contact
