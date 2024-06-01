@@ -52,7 +52,7 @@ MCQs are evaluated using LangChain's capabilities which provides insights into t
     ```
 
 2. Provide examples of how to use the project, including code snippets and expected outputs.
-
+/var/folders/lc/n5fml4jd4019lskc2ndx44jh0000gn/T/TemporaryItems/NSIRD_screencaptureui_UqLCe0/Screenshot 2024-06-01 at 8.46.28 AM.png
 
 
 
