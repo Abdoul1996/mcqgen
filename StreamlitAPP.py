@@ -9,9 +9,12 @@ from langchain_community.callbacks.manager import get_openai_callback
 from src.mcqgenerator.MCQGenerator import generate_evaluate_chain
 from src.mcqgenerator.logger import logging
 
+
 # loading json file 
-with open('/Users/abdoulabdillahi/Desktop/Generative AI /Generative_AI_Project/mcqgen/Response.json', 'r') as file:
+file_path = os.path.join(os.path.dirname(__file__), 'Response.json')
+with open(file_path, 'r') as file:
     RESPONSE_JSON = json.load(file)
+
 
 # creating a title for the app 
 st.title("MCQs Creator Application with LangChain 🦜️🔗 ")
